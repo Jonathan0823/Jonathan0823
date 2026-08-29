@@ -15,6 +15,8 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Jonathan0823&theme=tokyonight&hide_border=true&background=1a1b27" height="200" alt="streak graph" />
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jonathan0823&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Jonathan0823&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=Jonathan0823&theme=tokyonight&no-frame=true&background=1a1b27)
